@@ -17,3 +17,11 @@
 <!---
 Kibzai/Kibzai is a ✨ special ✨ repository because its `README.md` (this file) appears on my GitHub profile.
 --->
+
+# Programs
+- [Programs](https://kibzai.github.io/Programs/): Laboratorio & Studio
+- [Phi](https://kibzai.github.io/Phi/)
+- [RandomGenerator](https://kibzai.github.io/RandomGenerator/)
+- [BinauralBeats](https://kibzai.github.io/BinauralBeats/)
+- [Random](https://kibzai.github.io/Random/)
+- [ScryfallResearcher](https://kibzai.github.io/ScryfallResearcher/)
