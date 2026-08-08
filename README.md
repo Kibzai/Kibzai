@@ -21,13 +21,13 @@ Kibzai/Kibzai is a ✨ special ✨ repository because its `README.md` (this file
 # Programs
 - [Laboratorio & Studio](https://kibzai.github.io/Programs/)
 - [Random Web](https://kibzai.github.io/Random/)
+- [ScryfallResearcher](https://kibzai.github.io/ScryfallResearcher/)
 
 ---
 
 ## Tools
-- [Encrypt](https://kibzai.github.io/Steganography/)
-- [Playlist Cover Generator](https://kibzai.github.io/PlaylistCover/)
-- [BinauralBeats](https://kibzai.github.io/BinauralBeats/)
-- [RandomGenerator](https://kibzai.github.io/RandomGenerator/)
 - [Phi](https://kibzai.github.io/Phi/)
-- [ScryfallResearcher](https://kibzai.github.io/ScryfallResearcher/)
+- [BinauralBeats](https://kibzai.github.io/BinauralBeats/)
+- [Playlist Cover Generator](https://kibzai.github.io/PlaylistCover/)
+- [Steganography](https://kibzai.github.io/Steganography/)
+- [RandomGenerator](https://kibzai.github.io/RandomGenerator/)
