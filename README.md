@@ -18,12 +18,9 @@
 Kibzai/Kibzai is a ✨ special ✨ repository because its `README.md` (this file) appears on my GitHub profile.
 --->
 
-# Programs
-- [Laboratorio & Studio](https://kibzai.github.io/Programs/)
+# Laboratory & Studio
+- [Programs](https://kibzai.github.io/Programs/)
 - [Random Web](https://kibzai.github.io/Random/)
-- [ScryfallResearcher](https://kibzai.github.io/ScryfallResearcher/)
-
----
 
 ## Tools
 - [Phi](https://kibzai.github.io/Phi/)
@@ -31,3 +28,7 @@ Kibzai/Kibzai is a ✨ special ✨ repository because its `README.md` (this file
 - [Playlist Cover Generator](https://kibzai.github.io/PlaylistCover/)
 - [Steganography](https://kibzai.github.io/Steganography/)
 - [RandomGenerator](https://kibzai.github.io/RandomGenerator/)
+
+## Magic
+- [ScryfallResearcher](https://kibzai.github.io/ScryfallResearcher/)
+- [MagicASCII](https://github.com/Kibzai/MagicASCII): Readme
