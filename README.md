@@ -24,8 +24,10 @@ Kibzai/Kibzai is a ✨ special ✨ repository because its `README.md` (this file
 
 ---
 
-- [Phi](https://kibzai.github.io/Phi/)
-- [RandomGenerator](https://kibzai.github.io/RandomGenerator/)
-- [BinauralBeats](https://kibzai.github.io/BinauralBeats/)
+## Tools
+- [Encrypt](https://kibzai.github.io/Steganography/)
 - [Playlist Cover Generator](https://kibzai.github.io/PlaylistCover/)
+- [BinauralBeats](https://kibzai.github.io/BinauralBeats/)
+- [RandomGenerator](https://kibzai.github.io/RandomGenerator/)
+- [Phi](https://kibzai.github.io/Phi/)
 - [ScryfallResearcher](https://kibzai.github.io/ScryfallResearcher/)
